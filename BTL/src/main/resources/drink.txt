@@ -1,0 +1,22 @@
+cafe
+10000.0
+Con
+Sang Chieu
+true
+Tra sua
+25000.0
+con
+Sang Chieu Toi
+true
+Tra trai cay
+20000.0
+Con
+Sang
+false
+Da me
+15000.0
+het
+Chieu Toi
+true
+
+
